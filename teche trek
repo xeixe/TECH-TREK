@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tech Trek</title>
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+  }
+  h1 {
+    font-size: 5em; /* Tamaño grande para "tech trek" */
+    margin-bottom: 0.2em;
+    color: #0056b3; /* Un color azul para el título */
+  }
+  p {
+    font-size: 2em; /* Tamaño para el eslogan */
+    color: #555;
+  }
+</style>
+</head>
+<body>  
+
+<h1>tech trek</h1>
+<p>Learn without limits</p>
+
+</body>
+</html>
